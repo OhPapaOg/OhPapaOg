@@ -34,6 +34,6 @@ Hi, you can call me Oh Papa. I am just a guy learning and messing around with lu
 ## 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/255136088501387265?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Time%20flies%20after%20you%20hit%20the%20snooze%20button.)](https://discord.com/users/255136088501387265)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/255136088501387265?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Time%20flies%20after%20you%20hit%20the%20snooze%20button.)](https://discord.gg/nHtdVGgWeK)
 
 </div>
