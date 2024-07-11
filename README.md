@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/bXtdpoU.png" width="400px">
+  <img src="https://i.imgur.com/bXtdpoU.png" width="300px">
   <br><br>
   <samp>
 Hi, you can call me Oh Papa. I am just a guy learning and messing around with lua currently. I mainly work on CFX platform, RedM to be specific. Making scripts for people to use on their servers. I am mostly starting out and hopefully this will take me to learn other languages and start new projects. 
