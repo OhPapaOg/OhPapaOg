@@ -16,6 +16,7 @@ Hi, you can call me Oh Papa. I am just a guy learning and messing around with lu
       ├─ Untamed Raids
       ├─ Untamed Rentals
       ├─ Untamed Bait
+      ├─ Untamed Garage
       ├─ Untamed Moonshiner
       └─ Untamed Stagecoach Robberies 
 ```
